@@ -5,7 +5,7 @@ This is a React.js + Tailwind developer portfolio
 The whole project uses:
 - Vite as bundler
 - Tailwindcss for stylization
-- EmailJS for email (send and managment)
+- EmailJS for email (send and managment) </br></br>
 It includes:
 - Hero
 - About
