@@ -3,7 +3,7 @@ import imageAbout from "../assets/image-about.jpg";
 export function About() {
   return (
     <>
-      <section className="container mx-auto my-4 max-w-5xl p-4">
+      <section className="container mx-auto my-12 max-w-5xl p-4">
         <div className="relative p-4 text-center">
           <h2 className="flex items-center justify-center gap-x-5">
             <div className="w-8 h-1 rounded-full bg-teal-400"></div>

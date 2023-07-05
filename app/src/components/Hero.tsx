@@ -4,7 +4,7 @@ import imageHero from "../assets/image-hero.png";
 export function Hero() {
   return (
     <>
-      <section className="bg-gradient-to-tr from-black to-gray-900 text-white">
+      <section className="bg-gradient-to-tr from-black to-neutral-900 text-white">
         <div className="container mx-auto max-w-4xl px-2 py-12 flex items-center flex-col md:flex-row">
           <div className="basis-1/2  text-center md:text-left">
             <h1 className="mb-6">

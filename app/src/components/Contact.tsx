@@ -165,7 +165,6 @@ export function Contact() {
           </div>
         </div>
       </section>
-      <div className="absolute right-0 -mt-[4px] h-2 w-48 rounded-l-full bg-gradient-to-r from-teal-400 to-teal-600 md:w-96" />
     </>
   );
 }
