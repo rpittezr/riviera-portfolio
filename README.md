@@ -20,3 +20,5 @@ Run the following commands: <br/>
   cd app <br/>
   npm install <br/>
   npm preview
+## Live Preview
+<a href="https://rpittezr.github.io/riviera-portfolio/" target="_blank">Click here to see the live preview</a>
