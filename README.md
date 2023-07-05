@@ -7,13 +7,13 @@ The whole project uses:
 - Tailwindcss for stylization
 - EmailJS for email (send and managment) </br></br>
 It includes:
-- Hero
-- About
-- Services
-- Skills
-- Projects
-- Testimonials
-- Contact
+  - Hero
+  - About
+  - Services
+  - Skills
+  - Projects
+  - Testimonials
+  - Contact
 
 ## How to run
 Run the following commands: <br/>
