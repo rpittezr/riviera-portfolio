@@ -10,4 +10,8 @@
   .link {
     @apply hover:text-teal-400 font-bold transition;
   }
+
+  .title {
+    @apply text-3xl font-bold text-gray-900;
+  }
 }
